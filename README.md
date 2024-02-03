@@ -7,3 +7,6 @@ This article was written by the Verge on the new Apple Vision Pro Augmented Real
 
 ## Henry Zhang's Comments
 
+I like how the article considers tradeoffs that are not technical questions, but questions that consumers ask, such as "Is using the Vision Pro so good that I’m willing to mess up my hair every time I put it on?."  This question makes me realise that even though the Vision pro is a technological product, it is ultimatly a consumer good that is purchaced by non-technical consumers. I also find it very appealing that the Vision Pro, like all other apple products, integrate so well into the Apple ecosystem, which is extremely convenient and user-friendly.
+
+I agree with your comment's that the price is extremely high compared to it's competitors. However, your insight on how the Apple Vision Pro can actually cut spending costs by enabling multitasking without having to purchace and set up multiple monitors/workstations was actually very insightful and something I did not consider when assessing the cost of the headseat.
